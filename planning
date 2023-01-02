@@ -1,0 +1,23 @@
+1. page layout
+   2 columns- first is 1/3 second is 2/3
+   2 rows- first is 4/5 second is 1/5
+
+2. top left column
+   Today section
+   upcoming section
+   Not scheduled section
+   Projects section
+   tasks in Projects
+   to do's in tasks
+
+3. top right column
+   Display information given the current tab
+   Today,upcoming,not schduled, and projects
+
+4)bottom left column
+Add new list
+
+5. bottom right column
+   Add new to do item
+   Change date
+   edit list
